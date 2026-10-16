@@ -11,3 +11,4 @@ controla el retiro y comisiones de intereses además del rendimiento del dinero.
 
 ## Requisitos
 tener NetBeans o cualquier compilador de java;
+programa en documento src/cuenta bancaria
